@@ -1,26 +1,39 @@
 # 👋 Hi, I'm Fathima Ziya
 
-🎓 BCA | Artificial Intelligence & Data Science
-📊 Data Analytics | Power BI | Python | Excel
-🤖 AI Tools | Automation | Web Technologies
+🎓 **BCA | Artificial Intelligence & Data Science**
+📊 **Data Analytics | Power BI | Python | AI & Automation**
 
-### 🛠️ Skills
+I enjoy turning ideas and data into **practical projects, dashboards, and digital solutions**. 🚀
 
-**Python • Pandas • Power BI • Excel • Streamlit • HTML • CSS • JavaScript • AI Tools • Make.com • Zapier**
+### 🛠️ Tech Stack
 
-### 🚀 Projects
+**Python • Pandas • Power BI • Excel • Streamlit • HTML • CSS • JavaScript • AI Tools • Make.com • Zapier • Jupyter • VS Code**
 
-📊 Analytics Dashboards • 🏨 Hotel Analytics • 🛒 Superstore Sales • 🎬 Media Analytics • 🌐 Web Projects • 🤖 AI & Automation
+### 🚀 What I've Built
+
+📊 Business & Sales Analytics Dashboards
+🏨 Hotel Revenue Analytics
+🛒 Superstore Sales Dashboard
+🎬 Media Analytics Dashboard
+🌐 University Event Management System
+🤖 AI & Workflow Automation Projects
 
 ### 🏆 Highlights
 
-* 💼 Smart Office Coordinator Trainee — OJT
-* 📊 Built Power BI & Streamlit dashboards
-* 🤖 Hands-on experience with AI & automation tools
-* 🌐 Built practical web & academic projects
+* 💼 **Smart Office Coordinator Trainee — OJT**
+* 📊 Built multiple **interactive Power BI & Streamlit dashboards**
+* 🤖 Hands-on experience with **multiple AI tools & automation platforms**
+* 🌐 Developed **web-based academic & practical projects**
+* 🚀 Participated in **hackathon & event coordination activities**
+* 📚 Completed **professional/online learning programs** in AI & technology
+* 💡 Experience turning real-world requirements into **digital solutions**
 
-### 🌱 Currently Learning
+### 🌱 Currently Exploring
 
-**AI • Machine Learning • Data Analytics • SQL • Python**
+**Artificial Intelligence • Machine Learning • Data Analytics • SQL • Python**
 
-> 💡 Learning • Building • Exploring • Growing 🚀
+### 🎯 My Goal
+
+To keep **learning, building, and solving real-world problems with technology.**
+
+⭐ *Explore my repositories and follow my journey!*
