@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Fathima Ziya 👋
 
-<!--
-**fathimaziya294/fathimaziya294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Artificial Intelligence & Data Science
+💻 Python | Data Analytics | Power BI
+📊 Interested in Data, Technology & AI
+🌱 Learning, building projects, and improving every day
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming:** Python
+* **Data:** Pandas, Excel
+* **Visualization:** Power BI, Streamlit
+* **Web:** HTML, CSS, JavaScript
+* **AI & Automation:** AI Tools, Automation
+
+## 📌 Projects
+
+* 📊 Sales & Business Analytics Dashboards
+* 🏨 Hotel Revenue Analytics Dashboard
+* 🎬 Media Analytics Dashboard
+* 🛒 Superstore Sales Dashboard
+* 🤖 AI & Automation Projects
+
+## 🌱 Currently Learning
+
+* Python
+* Data Analytics
+* Artificial Intelligence
+* Machine Learning
+* SQL
+
+## 🎯 About Me
+
+I'm a BCA student passionate about technology, data, and continuous learning. I enjoy building practical projects and exploring new tools and technologies.
+
+---
+
+⭐ Thanks for visiting my profile!
