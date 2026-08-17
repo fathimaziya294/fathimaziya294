@@ -1,39 +1,48 @@
 # 👋 Hi, I'm Fathima Ziya
 
 🎓 **BCA | Artificial Intelligence & Data Science**
-📊 **Data Analytics | Power BI | Python | AI & Automation**
+💻 **Data Analytics • Python • Power BI • AI • Automation**
 
-I enjoy turning ideas and data into **practical projects, dashboards, and digital solutions**. 🚀
+> 🚀 *Learning. Building. Creating. Growing.*
+
+I'm a tech enthusiast who enjoys **exploring new technologies, analyzing data, building dashboards, and creating practical digital solutions.**
 
 ### 🛠️ Tech Stack
 
-**Python • Pandas • Power BI • Excel • Streamlit • HTML • CSS • JavaScript • AI Tools • Make.com • Zapier • Jupyter • VS Code**
+**Python** • **Pandas** • **Power BI** • **Excel** • **Streamlit** • **HTML** • **CSS** • **JavaScript** • **AI Tools** • **Make.com** • **Zapier** • **Jupyter** • **VS Code**
 
-### 🚀 What I've Built
+### 🚀 Featured Work
 
-📊 Business & Sales Analytics Dashboards
-🏨 Hotel Revenue Analytics
-🛒 Superstore Sales Dashboard
-🎬 Media Analytics Dashboard
-🌐 University Event Management System
-🤖 AI & Workflow Automation Projects
+📊 **Data Analytics & BI** — Interactive Power BI & Streamlit dashboards
+🤖 **AI & Automation** — AI-powered workflows and productivity solutions
+🌐 **Web Development** — Practical websites and digital solutions
+📈 **Business Analytics** — Sales, customer, finance & hotel data projects
+🎬 **Media Analytics** — Data-driven insights and visualization
 
 ### 🏆 Highlights
 
 * 💼 **Smart Office Coordinator Trainee — OJT**
-* 📊 Built multiple **interactive Power BI & Streamlit dashboards**
-* 🤖 Hands-on experience with **multiple AI tools & automation platforms**
-* 🌐 Developed **web-based academic & practical projects**
-* 🚀 Participated in **hackathon & event coordination activities**
-* 📚 Completed **professional/online learning programs** in AI & technology
-* 💡 Experience turning real-world requirements into **digital solutions**
+* 📊 Built **multiple interactive dashboards** using Power BI & Streamlit
+* 🤖 Hands-on experience with **AI, automation & productivity tools**
+* 🌐 Developed **web-based projects and digital solutions**
+* 🚀 Participated in **hackathon & event coordination**
+* 🧩 Worked on **real-world, project-based assignments**
+* 📚 Continuously completing **courses & professional learning programs**
+* 💡 Strong interest in **problem-solving, creativity & technology**
 
 ### 🌱 Currently Exploring
 
-**Artificial Intelligence • Machine Learning • Data Analytics • SQL • Python**
+**Artificial Intelligence 🤖 | Machine Learning 🧠 | Data Analytics 📊 | SQL 🗄️ | Python 🐍**
 
-### 🎯 My Goal
+### 💡 Interests
 
-To keep **learning, building, and solving real-world problems with technology.**
+**Data • AI • Technology • Automation • Visualization • Innovation**
 
-⭐ *Explore my repositories and follow my journey!*
+### 🎯 Vision
+
+To continuously **learn, build meaningful projects, and use technology to solve real-world problems.**
+
+---
+
+⭐ **Thanks for visiting my profile!**
+💫 *Every project is a step forward.*
