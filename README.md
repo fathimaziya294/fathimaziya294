@@ -1,38 +1,26 @@
-# Hi, I'm Fathima Ziya 👋
+# 👋 Hi, I'm Fathima Ziya
 
-🎓 BCA Student | Artificial Intelligence & Data Science
-💻 Python | Data Analytics | Power BI
-📊 Interested in Data, Technology & AI
-🌱 Learning, building projects, and improving every day
+🎓 BCA | Artificial Intelligence & Data Science
+📊 Data Analytics | Power BI | Python | Excel
+🤖 AI Tools | Automation | Web Technologies
 
-## 🛠️ Skills
+### 🛠️ Skills
 
-* **Programming:** Python
-* **Data:** Pandas, Excel
-* **Visualization:** Power BI, Streamlit
-* **Web:** HTML, CSS, JavaScript
-* **AI & Automation:** AI Tools, Automation
+**Python • Pandas • Power BI • Excel • Streamlit • HTML • CSS • JavaScript • AI Tools • Make.com • Zapier**
 
-## 📌 Projects
+### 🚀 Projects
 
-* 📊 Sales & Business Analytics Dashboards
-* 🏨 Hotel Revenue Analytics Dashboard
-* 🎬 Media Analytics Dashboard
-* 🛒 Superstore Sales Dashboard
-* 🤖 AI & Automation Projects
+📊 Analytics Dashboards • 🏨 Hotel Analytics • 🛒 Superstore Sales • 🎬 Media Analytics • 🌐 Web Projects • 🤖 AI & Automation
 
-## 🌱 Currently Learning
+### 🏆 Highlights
 
-* Python
-* Data Analytics
-* Artificial Intelligence
-* Machine Learning
-* SQL
+* 💼 Smart Office Coordinator Trainee — OJT
+* 📊 Built Power BI & Streamlit dashboards
+* 🤖 Hands-on experience with AI & automation tools
+* 🌐 Built practical web & academic projects
 
-## 🎯 About Me
+### 🌱 Currently Learning
 
-I'm a BCA student passionate about technology, data, and continuous learning. I enjoy building practical projects and exploring new tools and technologies.
+**AI • Machine Learning • Data Analytics • SQL • Python**
 
----
-
-⭐ Thanks for visiting my profile!
+> 💡 Learning • Building • Exploring • Growing 🚀
